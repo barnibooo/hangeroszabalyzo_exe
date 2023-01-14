@@ -1,5 +1,5 @@
 # Hangerőszabályozó EXE készítő
-[![N|Solid](readme_fileok/vol.png)]
+![Logo](readme_fileok/vol.png)
 ## Első használat előtt! 
 
 1. Nyisd meg a Powershell-t adminként
