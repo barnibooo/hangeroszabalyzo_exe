@@ -45,4 +45,4 @@ public class Audio {
 '@
 [Audio]::Mute = $false
 [Audio]::Volume = 
-0.00
+0.90

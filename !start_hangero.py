@@ -43,6 +43,7 @@ def exemaker():
         p.communicate()
         winsound.PlaySound('kk.wav', winsound.SND_FILENAME)
         messagebox.showinfo("Sikeres exe készítés","Az exe elkészült!\nJó trollkodást!") 
+        text_box.delete(0, END)
 
 
 mainw=Tk()
