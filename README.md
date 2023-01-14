@@ -1,1 +1,1 @@
-# hangeroszabalyzo_exe
+# Hangerőszabályozó EXE készítő
